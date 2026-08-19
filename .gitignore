@@ -1,0 +1,8 @@
+# Abaikan fail environment variables (rahsia)
+.env
+.env.local
+.env*.local
+
+# Abaikan folder kebiasaan jika ada
+node_modules/
+.vercel
